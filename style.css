@@ -1,5 +1,5 @@
 body{
-   background: linear-gradient(darkgray,red);
+   background: linear-gradient(yellow,blue);
 }
 
 
@@ -26,7 +26,7 @@ body{
     border-radius: 5px;
 }
 .box:hover{
-    background-color:chartreuse;
+    background-color:crimson;
     cursor: pointer;
 }
 .game-info{
